@@ -3,10 +3,7 @@
 ## Overview
 This Java project is designed to [briefly describe the main purpose or functionality of the project, e.g., "create a simple task management system" or "demonstrate object-oriented programming principles"]. It aims to provide [mention any key features or goals, e.g., "a user-friendly interface for managing tasks" or "an educational tool for learning Java"].
 
-## Features
-- **Feature 1**: [Description of feature 1]
-- **Feature 2**: [Description of feature 2]
-- **Feature 3**: [Description of feature 3]
+
   
 ## Getting Started
 
